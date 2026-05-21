@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="294" viewBox="0 0 294 294" fill="none">
+  <!-- Taco 2: Angled 3/4 view taco, bold red shell -->
+  <!-- Shadow under -->
+  <ellipse cx="150" cy="210" rx="75" ry="12" fill="rgba(0,0,0,0.08)"/>
+  <!-- Shell left half -->
+  <path d="M 80 200 C 72 175 68 145 72 118 C 76 92 88 72 102 66 C 112 62 120 66 125 74 C 120 90 118 120 120 150 C 122 170 128 188 135 200 Z" fill="#FC3845"/>
+  <!-- Shell right half -->
+  <path d="M 125 74 C 130 68 140 62 152 64 C 168 68 180 86 184 112 C 188 138 182 170 175 200 L 135 200 C 128 188 122 170 120 150 C 118 120 120 90 125 74 Z" fill="#E02030"/>
+  <!-- Fillings sticking out top -->
+  <!-- Lettuce wave -->
+  <path d="M 90 80 C 95 68 104 62 112 64 C 118 58 128 56 136 62 C 144 56 154 58 160 66 C 168 62 175 68 174 78" stroke="#4A7A2C" stroke-width="7" stroke-linecap="round" fill="none"/>
+  <!-- Second lettuce layer -->
+  <path d="M 95 90 C 100 78 110 72 120 74 C 128 68 140 70 148 78 C 156 72 164 76 166 86" stroke="#5A8A3C" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Meat/beans -->
+  <path d="M 100 100 C 108 88 118 84 128 86 C 138 84 148 90 154 100" stroke="#8B3A1A" stroke-width="6" stroke-linecap="round" fill="none"/>
+  <!-- Cheese drip -->
+  <path d="M 112 88 C 110 96 108 102 109 108" stroke="#F5C842" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M 138 86 C 140 94 142 100 141 106" stroke="#F5C842" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Sour cream dollop -->
+  <ellipse cx="126" cy="82" rx="10" ry="6" fill="white" opacity="0.85"/>
+  <!-- Shell sketch texture lines -->
+  <path d="M 82 195 C 80 170 78 140 84 115" stroke="#C01828" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 173 195 C 176 168 178 138 172 112" stroke="#C01828" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Bottom rim -->
+  <path d="M 80 200 C 100 206 140 208 175 200" stroke="#A01020" stroke-width="3" stroke-linecap="round" fill="none"/>
+</svg>

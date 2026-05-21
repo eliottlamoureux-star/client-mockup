@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" fill="none">
+  <!-- Background blob -->
+  <path d="M185 18 C222 12 268 28 290 62 C312 96 310 148 298 188 C286 228 258 264 224 282 C192 298 152 298 120 282 C86 264 58 232 44 196 C28 156 32 108 54 76 C74 46 108 24 145 18 C158 15 172 20 185 18Z" fill="#F3F3E8"/>
+
+  <!-- 4-point sparkle stars -->
+  <path d="M272 52 L275 42 L278 52 L288 55 L278 58 L275 68 L272 58 L262 55Z" fill="black"/>
+  <path d="M292 88 L294 82 L296 88 L302 90 L296 92 L294 98 L292 92 L286 90Z" fill="black"/>
+  <path d="M72 70 L75 60 L78 70 L88 73 L78 76 L75 86 L72 76 L62 73Z" fill="black"/>
+  <path d="M50 110 L52 104 L54 110 L60 112 L54 114 L52 120 L50 114 L44 112Z" fill="black"/>
+
+  <!-- ===== TACO SHELL BODY ===== -->
+  <!-- Outer shell - big rounded U shape -->
+  <path d="M74 158 C70 136 70 112 78 94 C86 76 100 66 118 64 C132 62 144 68 160 76 C176 68 188 62 202 64 C220 66 234 76 242 94 C250 112 250 136 246 158Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Shell bottom rim curve -->
+  <path d="M74 158 C100 172 140 178 160 178 C180 178 220 172 246 158" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Shell fold/crease -->
+  <path d="M160 76 L160 178" stroke="black" stroke-width="2" stroke-dasharray="5 5" stroke-linecap="round"/>
+  <!-- Halftone dots on shell -->
+  <circle cx="130" cy="150" r="3.5" fill="black" opacity="0.2"/>
+  <circle cx="148" cy="162" r="3" fill="black" opacity="0.18"/>
+  <circle cx="166" cy="162" r="3" fill="black" opacity="0.18"/>
+  <circle cx="115" cy="162" r="3" fill="black" opacity="0.15"/>
+  <circle cx="185" cy="150" r="3.5" fill="black" opacity="0.2"/>
+  <circle cx="200" cy="162" r="3" fill="black" opacity="0.15"/>
+  <circle cx="135" cy="170" r="2.5" fill="black" opacity="0.15"/>
+  <circle cx="158" cy="172" r="2.5" fill="black" opacity="0.12"/>
+  <circle cx="178" cy="170" r="2.5" fill="black" opacity="0.12"/>
+
+  <!-- ===== FILLINGS sticking out top ===== -->
+  <!-- Serrated/wavy lettuce edge -->
+  <path d="M88 86 C94 74 104 68 114 72 C118 64 128 60 136 66 C140 58 152 56 160 62 C168 56 180 58 184 66 C192 60 202 64 206 72 C216 68 226 74 232 86" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Tomato rounds -->
+  <circle cx="112" cy="78" r="10" fill="black"/>
+  <circle cx="112" cy="78" r="5.5" fill="white"/>
+  <circle cx="208" cy="78" r="10" fill="black"/>
+  <circle cx="208" cy="78" r="5.5" fill="white"/>
+  <!-- Meat texture blobs -->
+  <circle cx="140" cy="74" r="5" fill="black"/>
+  <circle cx="160" cy="70" r="4" fill="black"/>
+  <circle cx="180" cy="74" r="5" fill="black"/>
+
+  <!-- ===== FACE ===== -->
+  <!-- Left eye (pill/oval shape, taller than wide) -->
+  <ellipse cx="132" cy="118" rx="10" ry="14" fill="black"/>
+  <circle cx="128" cy="113" r="4" fill="white"/>
+  <!-- Right eye -->
+  <ellipse cx="188" cy="118" rx="10" ry="14" fill="black"/>
+  <circle cx="184" cy="113" r="4" fill="white"/>
+  <!-- Eyebrows -->
+  <path d="M124 100 C128 96 136 96 140 100" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M180 100 C184 96 192 96 196 100" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Smile -->
+  <path d="M138 140 C148 150 172 150 182 140" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Cheek blush dots -->
+  <circle cx="118" cy="134" r="3.5" fill="black" opacity="0.3"/>
+  <circle cx="119" cy="141" r="2.5" fill="black" opacity="0.2"/>
+  <circle cx="202" cy="134" r="3.5" fill="black" opacity="0.3"/>
+  <circle cx="201" cy="141" r="2.5" fill="black" opacity="0.2"/>
+
+  <!-- ===== LEFT ARM (down, relaxed) ===== -->
+  <path d="M84 138 C68 142 52 154 44 170" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Left forearm slight bend -->
+  <path d="M44 170 C40 180 38 190 40 200" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Left GLOVE - palm -->
+  <ellipse cx="44" cy="212" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <!-- Glove fingers (4 chubby fingers) -->
+  <path d="M28 204 C24 194 26 186 32 186 C38 186 40 194 38 202" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M36 200 C32 190 34 182 40 182 C46 182 48 190 46 200" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M44 200 C42 190 46 183 52 184 C58 185 58 193 56 201" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M52 202 C52 193 57 187 62 189 C67 191 66 200 62 206" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <!-- Glove cuff band -->
+  <path d="M26 216 C30 228 58 228 62 216" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M26 216 Q44 220 62 216" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== RIGHT ARM (raised, peace/V sign) ===== -->
+  <path d="M236 138 C252 135 268 122 276 108" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Right GLOVE - palm -->
+  <ellipse cx="286" cy="96" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <!-- V sign: index finger -->
+  <path d="M276 92 C272 80 274 68 280 67 C286 66 288 76 287 88" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <!-- V sign: middle finger -->
+  <path d="M283 88 C281 76 284 65 291 65 C298 65 299 76 296 87" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <!-- Folded ring finger -->
+  <path d="M294 91 C295 84 299 80 303 83 C306 86 304 93 300 96" stroke="black" stroke-width="3" stroke-linecap="round" fill="white"/>
+  <!-- Folded pinky -->
+  <path d="M298 97 C300 90 304 88 307 91 C310 94 308 100 304 102" stroke="black" stroke-width="2.8" stroke-linecap="round" fill="white"/>
+  <!-- Thumb tucked -->
+  <path d="M274 96 C269 90 270 84 275 84" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Glove cuff -->
+  <path d="M270 106 C274 117 298 117 302 106" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M270 106 Q286 110 302 106" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== LEGS (walking - crossing) ===== -->
+  <!-- Left leg (forward/front) -->
+  <path d="M134 178 C128 198 124 214 122 230" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <!-- Right leg (back) -->
+  <path d="M186 178 C194 198 200 212 202 228" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Left shoe - SOLID BLACK (front/stepping foot) -->
+  <path d="M100 232 C90 228 84 236 86 246 C88 256 102 262 122 260 C138 258 146 250 144 242 C142 234 132 228 122 232Z" fill="black"/>
+  <!-- Shoe sole highlight -->
+  <path d="M88 248 C92 256 118 260 140 252" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Lace area highlight -->
+  <path d="M96 236 L100 230 M106 239 L110 233 M116 240 L120 234" stroke="white" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right shoe - WHITE OUTLINE (back foot) -->
+  <path d="M184 228 C174 224 168 232 170 242 C172 252 186 258 204 256 C220 254 228 246 226 238 C224 230 212 226 202 230Z" fill="white" stroke="black" stroke-width="4"/>
+  <!-- Right shoe laces -->
+  <path d="M180 242 C196 238 212 240 222 244" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M182 236 L188 232 M196 236 L202 232 M210 238 L214 234" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <!-- Right shoe tongue -->
+  <path d="M190 236 C193 228 203 228 206 236" stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Ground line -->
+  <line x1="70" y1="268" x2="248" y2="268" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

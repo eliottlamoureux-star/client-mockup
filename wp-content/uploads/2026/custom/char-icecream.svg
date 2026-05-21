@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 400" fill="none">
+  <!-- Background blob -->
+  <path d="M182 14 C224 6 278 30 298 74 C318 118 310 180 290 220 C272 256 244 280 210 292 C178 304 140 302 110 284 C78 264 52 226 38 186 C22 140 28 86 56 56 C80 28 118 12 155 12 C164 10 174 16 182 14Z" fill="#F3F3E8"/>
+
+  <!-- Sparkles -->
+  <path d="M276 44 L279 34 L282 44 L292 47 L282 50 L279 60 L276 50 L266 47Z" fill="black"/>
+  <path d="M296 82 L298 76 L300 82 L306 84 L300 86 L298 92 L296 86 L290 84Z" fill="black"/>
+  <path d="M68 56 L71 46 L74 56 L84 59 L74 62 L71 72 L68 62 L58 59Z" fill="black"/>
+  <path d="M48 100 L50 94 L52 100 L58 102 L52 104 L50 110 L48 104 L42 102Z" fill="black"/>
+
+  <!-- ===== ICE CREAM SCOOP (body/head) ===== -->
+  <!-- Main scoop - big rounded blob on top -->
+  <path d="M100 160 C96 136 98 112 108 94 C118 76 134 66 158 62 C178 58 200 64 214 78 C228 92 234 110 232 132 C230 152 222 168 210 178 C198 188 178 194 160 194 C140 194 120 188 108 178 C104 172 102 166 100 160Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Scoop wobbly top (organic scooped shape) -->
+  <path d="M108 94 C114 82 124 74 138 68 C144 66 148 60 158 58 C164 56 172 58 178 64 C184 60 194 62 202 70 C212 78 220 88 224 100" stroke="black" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <!-- Drips down the sides -->
+  <path d="M108 178 C106 186 108 196 112 200 C116 204 120 200 120 192 L120 184" fill="white" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M142 192 C140 202 142 214 148 216 C154 218 158 212 156 204 L154 196" fill="white" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M178 192 C178 202 180 212 186 214 C192 216 195 210 193 202 L190 194" fill="white" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Scoop halftone dots -->
+  <circle cx="148" cy="100" r="3.5" fill="black" opacity="0.18"/>
+  <circle cx="168" cy="92" r="3" fill="black" opacity="0.15"/>
+  <circle cx="186" cy="100" r="3.5" fill="black" opacity="0.18"/>
+  <circle cx="136" cy="116" r="3" fill="black" opacity="0.15"/>
+  <circle cx="194" cy="118" r="3" fill="black" opacity="0.15"/>
+
+  <!-- ===== FACE on scoop ===== -->
+  <!-- Left eye -->
+  <ellipse cx="138" cy="128" rx="10" ry="14" fill="black"/>
+  <circle cx="134" cy="123" r="4" fill="white"/>
+  <!-- Right eye -->
+  <ellipse cx="184" cy="128" rx="10" ry="14" fill="black"/>
+  <circle cx="180" cy="123" r="4" fill="white"/>
+  <!-- Eyebrows -->
+  <path d="M130 110 C134 106 142 106 146 110" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M176 110 C180 106 188 106 192 110" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Smile -->
+  <path d="M144 152 C153 162 169 162 178 152" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Cheek dots -->
+  <circle cx="122" cy="146" r="3.5" fill="black" opacity="0.28"/>
+  <circle cx="123" cy="153" r="2.5" fill="black" opacity="0.2"/>
+  <circle cx="200" cy="146" r="3.5" fill="black" opacity="0.28"/>
+  <circle cx="199" cy="153" r="2.5" fill="black" opacity="0.2"/>
+
+  <!-- ===== WAFFLE CONE body ===== -->
+  <!-- Cone shape (tapers to point at bottom) -->
+  <path d="M108 194 C104 198 150 318 160 320 C170 322 218 198 214 194Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Waffle grid - horizontal lines -->
+  <path d="M107 210 C125 206 197 206 215 210" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M109 226 C126 222 196 222 213 226" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M112 242 C128 238 194 238 210 242" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M116 258 C130 254 192 254 206 258" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M120 274 C133 270 189 270 202 274" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M125 290 C136 286 186 286 197 290" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M131 306 C140 302 182 302 191 306" stroke="black" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <!-- Waffle grid - diagonal lines left -->
+  <path d="M110 198 L126 316" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M126 196 L140 314" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M142 194 L152 318" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+  <!-- Waffle grid - diagonal lines right -->
+  <path d="M212 198 L196 316" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M196 196 L182 314" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M180 194 L170 318" stroke="black" stroke-width="1.8" stroke-linecap="round"/>
+
+  <!-- ===== LEFT ARM ===== -->
+  <path d="M102 154 C84 158 66 172 56 188" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M56 188 C50 200 48 214 50 226" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Left glove -->
+  <ellipse cx="52" cy="238" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M36 230 C32 220 34 212 40 212 C46 212 48 220 46 228" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M44 226 C40 216 42 208 48 208 C54 208 56 216 54 226" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M52 226 C50 216 54 209 60 210 C66 211 66 219 64 227" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M60 228 C60 219 65 213 70 215 C75 217 74 226 70 232" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M34 242 C38 254 66 254 70 242" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M34 242 Q52 246 70 242" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== RIGHT ARM (raised, peace) ===== -->
+  <path d="M220 154 C238 150 256 136 264 120" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Right glove -->
+  <ellipse cx="272" cy="108" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M262 104 C258 92 260 80 266 79 C272 78 274 88 273 100" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M269 100 C267 88 270 77 277 77 C284 77 285 88 282 99" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M280 103 C281 96 285 92 289 95 C292 98 290 105 286 108" stroke="black" stroke-width="3" stroke-linecap="round" fill="white"/>
+  <path d="M284 109 C286 102 290 100 293 103 C296 106 294 112 290 114" stroke="black" stroke-width="2.8" stroke-linecap="round" fill="white"/>
+  <path d="M260 108 C255 102 256 96 261 96" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M256 118 C260 129 284 129 288 118" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M256 118 Q272 122 288 118" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== LEGS ===== -->
+  <!-- Legs come from just above cone tip area center -->
+  <path d="M148 320 C142 336 138 350 136 366" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M172 320 C180 336 186 348 188 364" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Left shoe SOLID -->
+  <path d="M114 368 C104 364 98 372 100 382 C102 392 116 396 136 394 C152 392 160 384 158 376 C156 368 146 362 136 366Z" fill="black"/>
+  <path d="M102 384 C106 392 132 396 154 388" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M108 372 L112 366 M120 375 L124 369 M132 376 L136 370" stroke="white" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right shoe OUTLINE -->
+  <path d="M170 364 C160 360 154 368 156 378 C158 388 172 394 190 392 C206 390 214 382 212 374 C210 366 198 362 188 366Z" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M162 378 C178 374 194 376 204 380" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M168 370 L174 366 M182 372 L188 368 M196 374 L200 370" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M176 370 C179 362 189 362 192 370" stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Ground line -->
+  <line x1="80" y1="400" x2="258" y2="400" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 380" fill="none">
+  <!-- Background blob -->
+  <path d="M180 16 C220 8 272 30 294 68 C316 108 312 166 294 208 C278 246 248 272 212 286 C178 300 138 298 106 280 C72 260 46 224 34 186 C20 142 28 90 56 60 C80 32 116 14 152 14 C162 12 172 18 180 16Z" fill="#F3F3E8"/>
+
+  <!-- Sparkles -->
+  <path d="M274 46 L277 36 L280 46 L290 49 L280 52 L277 62 L274 52 L264 49Z" fill="black"/>
+  <path d="M295 84 L297 78 L299 84 L305 86 L299 88 L297 94 L295 88 L289 86Z" fill="black"/>
+  <path d="M72 62 L75 52 L78 62 L88 65 L78 68 L75 78 L72 68 L62 65Z" fill="black"/>
+  <path d="M52 104 L54 98 L56 104 L62 106 L56 108 L54 114 L52 108 L46 106Z" fill="black"/>
+
+  <!-- ===== CHIP BODY (big triangle, slightly organic/rounded) ===== -->
+  <path d="M180 42 C188 40 197 46 202 58 C218 88 252 152 278 200 C285 214 280 228 270 232 C261 235 246 228 230 218 C212 207 194 196 180 193 C166 196 148 207 130 218 C114 228 99 235 90 232 C80 228 75 214 82 200 C108 152 142 88 158 58 C163 46 172 40 180 42Z" fill="white" stroke="black" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Chip texture - diagonal cross hatch lines -->
+  <path d="M148 80 C158 78 200 78 212 80" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M134 108 C147 104 210 104 224 108" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M120 136 C136 131 222 131 238 136" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Salt specks -->
+  <rect x="150" y="94" width="8" height="4" rx="2" fill="black" opacity="0.5" transform="rotate(-15 150 94)"/>
+  <rect x="195" y="110" width="7" height="4" rx="2" fill="black" opacity="0.5" transform="rotate(10 195 110)"/>
+  <rect x="138" y="124" width="8" height="4" rx="2" fill="black" opacity="0.45" transform="rotate(-8 138 124)"/>
+  <rect x="210" y="126" width="7" height="4" rx="2" fill="black" opacity="0.45" transform="rotate(18 210 126)"/>
+  <!-- Halftone dots -->
+  <circle cx="160" cy="170" r="3.5" fill="black" opacity="0.2"/>
+  <circle cx="178" cy="180" r="3" fill="black" opacity="0.18"/>
+  <circle cx="196" cy="172" r="3" fill="black" opacity="0.18"/>
+  <circle cx="148" cy="180" r="3" fill="black" opacity="0.15"/>
+  <circle cx="212" cy="180" r="3" fill="black" opacity="0.15"/>
+
+  <!-- ===== FACE ===== -->
+  <!-- Left eye -->
+  <ellipse cx="152" cy="142" rx="10" ry="14" fill="black"/>
+  <circle cx="148" cy="137" r="4" fill="white"/>
+  <!-- Right eye -->
+  <ellipse cx="208" cy="142" rx="10" ry="14" fill="black"/>
+  <circle cx="204" cy="137" r="4" fill="white"/>
+  <!-- Eyebrows -->
+  <path d="M144 124 C148 120 156 120 160 124" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M200 124 C204 120 212 120 216 124" stroke="black" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <!-- Smile -->
+  <path d="M158 164 C167 174 193 174 202 164" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <!-- Cheek dots -->
+  <circle cx="138" cy="158" r="3.5" fill="black" opacity="0.28"/>
+  <circle cx="139" cy="165" r="2.5" fill="black" opacity="0.2"/>
+  <circle cx="222" cy="158" r="3.5" fill="black" opacity="0.28"/>
+  <circle cx="221" cy="165" r="2.5" fill="black" opacity="0.2"/>
+
+  <!-- ===== LEFT ARM (relaxed, down) ===== -->
+  <path d="M100 162 C82 168 64 180 56 196" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <path d="M56 196 C50 208 48 220 50 232" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Left glove -->
+  <ellipse cx="52" cy="244" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M36 236 C32 226 34 218 40 218 C46 218 48 226 46 234" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M44 232 C40 222 42 214 48 214 C54 214 56 222 54 232" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M52 232 C50 222 54 215 60 216 C66 217 66 225 64 233" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M60 234 C60 225 65 219 70 221 C75 223 74 232 70 238" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M34 248 C38 260 66 260 70 248" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M34 248 Q52 252 70 248" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== RIGHT ARM (raised, peace sign) ===== -->
+  <path d="M260 162 C278 158 294 144 302 130" stroke="black" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Right glove -->
+  <ellipse cx="310" cy="118" rx="18" ry="16" fill="white" stroke="black" stroke-width="4"/>
+  <!-- V/peace fingers -->
+  <path d="M300 114 C296 102 298 90 304 89 C310 88 312 98 311 110" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M307 110 C305 98 308 87 315 87 C322 87 323 98 320 109" stroke="black" stroke-width="3.5" stroke-linecap="round" fill="white"/>
+  <path d="M318 113 C319 106 323 102 327 105 C330 108 328 115 324 118" stroke="black" stroke-width="3" stroke-linecap="round" fill="white"/>
+  <path d="M322 119 C324 112 328 110 331 113 C334 116 332 122 328 124" stroke="black" stroke-width="2.8" stroke-linecap="round" fill="white"/>
+  <path d="M298 118 C293 112 294 106 299 106" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M294 128 C298 139 322 139 326 128" stroke="black" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M294 128 Q310 132 326 128" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- ===== LEGS ===== -->
+  <path d="M150 196 C144 218 140 236 138 254" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <path d="M210 196 C218 218 224 234 226 252" stroke="black" stroke-width="10" stroke-linecap="round" fill="none"/>
+
+  <!-- Left shoe SOLID -->
+  <path d="M116 256 C106 252 100 260 102 270 C104 280 118 286 138 284 C154 282 162 274 160 266 C158 258 148 252 138 256Z" fill="black"/>
+  <path d="M104 272 C108 280 134 284 156 276" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M110 260 L114 254 M122 263 L126 257 M134 264 L138 258" stroke="white" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Right shoe OUTLINE -->
+  <path d="M208 252 C198 248 192 256 194 266 C196 276 210 282 228 280 C244 278 252 270 250 262 C248 254 236 250 226 254Z" fill="white" stroke="black" stroke-width="4"/>
+  <path d="M200 266 C216 262 232 264 242 268" stroke="black" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M206 258 L212 254 M220 260 L226 256 M234 262 L238 258" stroke="black" stroke-width="2" stroke-linecap="round"/>
+  <path d="M214 258 C217 250 227 250 230 258" stroke="black" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+
+  <!-- Ground line -->
+  <line x1="82" y1="292" x2="268" y2="292" stroke="black" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

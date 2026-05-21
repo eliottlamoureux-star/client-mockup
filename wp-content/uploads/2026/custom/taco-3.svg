@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="294" viewBox="0 0 294 294" fill="none">
+  <!-- Taco 3: Cute top-down open taco / flat sketch style -->
+  <!-- Tortilla base (large circle/oval) -->
+  <ellipse cx="147" cy="155" rx="108" ry="95" fill="#F5C842"/>
+  <!-- Tortilla texture -->
+  <path d="M 60 140 C 80 128 110 122 147 122 C 184 122 214 128 234 140" stroke="#D4A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 55 158 C 76 145 110 138 147 138 C 184 138 218 145 239 158" stroke="#D4A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Tortilla edge -->
+  <ellipse cx="147" cy="155" rx="108" ry="95" fill="none" stroke="#C9A020" stroke-width="3"/>
+  <!-- Lettuce bed -->
+  <ellipse cx="147" cy="148" rx="82" ry="55" fill="#5A8A3C"/>
+  <!-- Lettuce ruffles -->
+  <path d="M 65 148 C 72 138 80 132 88 136 C 92 128 100 124 108 130 C 112 122 120 120 128 126 C 132 118 140 116 148 122 C 152 116 160 116 168 122 C 172 118 180 120 186 128 C 192 124 200 128 204 136 C 212 132 220 138 222 148" stroke="#3D6B22" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <!-- Meat (seasoned, brown) -->
+  <ellipse cx="147" cy="142" rx="60" ry="35" fill="#8B4513"/>
+  <!-- Meat texture -->
+  <path d="M 100 138 C 108 132 120 130 130 134" stroke="#6B3010" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 155 132 C 165 130 175 134 180 140" stroke="#6B3010" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Cheese (yellow blobs) -->
+  <path d="M 108 135 C 115 125 128 122 138 128 C 148 122 162 124 170 133 C 165 140 155 144 145 142 C 132 143 118 140 108 135 Z" fill="#F5C842"/>
+  <!-- Tomato slices (red circles) -->
+  <circle cx="120" cy="133" r="10" fill="#FF4444"/>
+  <circle cx="120" cy="133" r="6" fill="#CC2222"/>
+  <circle cx="172" cy="135" r="9" fill="#FF4444"/>
+  <circle cx="172" cy="135" r="5" fill="#CC2222"/>
+  <!-- Sour cream swirl -->
+  <path d="M 145 128 C 148 122 155 120 160 126 C 164 120 170 122 168 130" stroke="white" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.9"/>
+  <!-- Lime wedge -->
+  <path d="M 200 165 C 205 158 215 156 220 162 C 225 168 222 178 215 180 C 208 182 200 176 200 165 Z" fill="#7DC23A"/>
+  <path d="M 200 165 C 210 162 220 165 220 162" stroke="#5A9A20" stroke-width="1.5" fill="none"/>
+  <!-- Cilantro sprigs -->
+  <path d="M 92 154 C 88 148 90 142 96 144 C 98 138 104 138 104 145 C 108 140 112 142 110 148" stroke="#4A8A2A" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>

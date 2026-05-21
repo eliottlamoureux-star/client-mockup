@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="294" viewBox="0 0 294 294" fill="none">
+  <!-- Chip 2: Pile/stack of nachos chips -->
+  <!-- Back chips (darker, behind) -->
+  <path d="M 90 200 C 88 198 80 180 78 162 C 76 144 85 132 95 128 C 100 126 108 128 112 134 L 90 200 Z" fill="#C9A020"/>
+  <path d="M 200 198 C 202 196 212 178 214 160 C 216 142 208 130 198 126 C 193 124 185 126 181 132 L 200 198 Z" fill="#C9A020"/>
+  <!-- Middle chip (left) -->
+  <path d="M 72 215 C 70 212 60 188 62 165 C 64 143 76 128 90 125 C 98 123 108 127 114 136 C 108 150 100 172 96 195 L 72 215 Z" fill="#EED03A"/>
+  <path d="M 72 215 C 82 218 92 215 96 195 C 100 172 108 150 114 136" stroke="#C9A820" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Middle chip (right) -->
+  <path d="M 222 213 C 224 210 234 186 232 163 C 230 141 218 126 204 123 C 196 121 186 125 180 134 C 186 148 194 170 198 193 L 222 213 Z" fill="#EED03A"/>
+  <path d="M 222 213 C 212 216 202 213 198 193 C 194 170 186 148 180 134" stroke="#C9A820" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Front center big chip -->
+  <path d="M 147 95 C 154 93 162 98 166 108 C 178 135 205 178 220 215 C 224 226 218 236 208 238 C 198 240 175 230 147 228 C 119 230 96 240 86 238 C 76 236 70 226 74 215 C 89 178 116 135 128 108 C 132 98 140 93 147 95 Z" fill="#F5C842"/>
+  <!-- Front chip texture lines -->
+  <path d="M 124 118 C 136 115 158 115 170 118" stroke="#C9A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 112 142 C 126 138 162 138 178 142" stroke="#C9A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 100 168 C 118 163 168 163 186 168" stroke="#C9A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 88 192 C 110 186 176 186 206 192" stroke="#C9A820" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <!-- Front chip edge highlight -->
+  <path d="M 147 95 C 140 93 132 98 128 108 C 116 135 89 178 74 215" stroke="#C9A820" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <path d="M 147 95 C 154 93 162 98 166 108 C 178 135 205 178 220 215" stroke="#C9A820" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <!-- Salt on front chip -->
+  <rect x="138" y="128" width="5" height="3" rx="1" fill="white" opacity="0.7" transform="rotate(-10 138 128)"/>
+  <rect x="160" y="145" width="4" height="3" rx="1" fill="white" opacity="0.7" transform="rotate(12 160 145)"/>
+  <rect x="120" y="162" width="5" height="3" rx="1" fill="white" opacity="0.7" transform="rotate(-5 120 162)"/>
+  <rect x="170" y="185" width="4" height="3" rx="1" fill="white" opacity="0.7"/>
+  <!-- Highlight on front chip -->
+  <path d="M 138 112 C 132 135 125 162 120 185" stroke="white" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.3"/>
+</svg>
